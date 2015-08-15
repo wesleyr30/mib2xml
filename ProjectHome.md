@@ -1,0 +1,1 @@
+The purpose of this project is to convert given MIB file into a valid XML file.
